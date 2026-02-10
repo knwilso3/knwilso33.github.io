@@ -1,0 +1,32 @@
+table, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+   background-color:springgreen;
+   font-size: larger;
+   margin-top: 0px;
+   margin-left: 0%;
+}
+th, td{
+    padding:15px;
+}
+th{
+    text-align:left;
+}
+body{
+    width: 1400px;
+    height: 1400px;
+    background-color: rgb(3, 107, 55);
+}
+h1{
+    color: rgb(107, 255, 8);
+    margin-left:1067px;
+    font-size: 100px;
+   
+}
+table{
+    width: 1100px;
+    height: 1100px; 
+     position: absolute;
+     right:50vh;
+     margin:0px;
+}

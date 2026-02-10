@@ -1,0 +1,41 @@
+body{
+    height:1520px;
+    background-color: black;
+}
+h1{
+    color: rgb(179, 0, 210);
+    font-size: 50px;
+}
+h2{
+    font-size: 25px;
+}
+img{
+   max-width: 300px;
+}
+    
+
+#arc{
+    height: 300px;
+    color: aquamarine;
+    background-color: bisque;
+}
+#blood{
+    height: 300px;
+    color: rgb(0, 0, 0);
+    background-color:red ;
+}
+#blade{
+    height: 300px;
+    color: darkkhaki;
+    background-color: darkolivegreen;
+}
+#trans{
+    height: 300px;
+    color: blue;
+    background-color: rgb(94, 94, 94);
+}
+#elden{
+    height: 300px;
+    color:gold;
+    background-color: darkgoldenrod;
+}

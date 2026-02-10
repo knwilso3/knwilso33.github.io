@@ -1,0 +1,117 @@
+h1 {
+	font-family:Copperplate, Papyrus, fantasy;
+	font-size: 88px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: rgb(40, 216, 16);
+    background-color: rgb(144, 67, 136);
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight:bold;
+	background-color:rgb(56, 8, 69);
+	color:rgb(255, 255, 255);
+}
+div {
+	background-color:greenyellow;
+	width: 100%;
+}
+div div {
+	background-color:rgb(144, 67, 136);
+	width: 45%;
+	padding: 2.5%;
+	float: left;
+
+}
+#card {
+	background-color:darkmagenta;
+	padding: 10px;
+	clear: both;
+}
+.links{
+	background-color:limegreen;
+	clear: both;
+	text-align: center;
+}
+
+p {
+	
+	 color:rgb(56, 8, 69);
+	 font-family:Bodoni Moda/Didot;
+	 font-size: 40px;
+}
+Img{
+	padding:35px;
+	background-color:rgb(56, 8, 69) ;
+
+	}
+li{
+	padding: 25px;
+ color:rgb(0, 134, 252);
+ font-size:25px;
+ background-color: rgb(20, 11, 81);
+}
+
+a{
+	color:chartreuse;
+	background-color:darkgreen;
+	padding:auto;
+	margin:26px;
+	font-size: 20px;
+	align-items:center;
+}
+
+
+H3{
+	text-align: center;
+	font-size:70px;
+	font-family:Copperplate, Papyrus, fantasy;
+	
+}
+#section{
+	font-family:Copperplate, Papyrus, fantasy;
+   background-color: rgb(71, 9, 76);
+border: 40px;
+color:rgb(132, 255, 0);
+font-size: 50px;
+
+}
+hr{
+	background-color: rgb(213, 18, 213);
+	
+}
+h2{
+	font-size: 60px;
+	font-family:Copperplate, Papyrus, fantasy;
+}
+#linkspoopy{
+	text-decoration:rgb(204, 255, 0);
+	background-color: rgb(27, 233, 75);
+	text-align: center;
+	font-size:50px;
+	border:solid;
+	border-color: rgb(196, 245, 1);
+	border-width: 20px;
+}
+ #pizza:hover{
+	padding:1000000000000px 1000000000px 100000000px 1000000000px;
+    background-image: url('../images/national_pizza_house_4.png.webp');
+	background-color:brown;
+	color:brown;
+	height:100000000000000000;
+}
+#pizza{
+	padding:0px;
+	border:solid;
+	border-color: chocolate;
+	color:brown;
+	border-radius: 2px;
+	margin:2px;
+	width:2px;
+	height:3px;
+}
+a#linkpizza{
+	color:burlywood;
+
+}

@@ -1,0 +1,60 @@
+body{
+    background-color:lightsalmon;
+    width: 1366px;
+    height: 768px;
+}
+
+div{
+    background-color:aquamarine;
+    border:solid;
+    border-color:rgb(237, 204, 119);
+    border-width:10px;
+    margin-bottom:25px;
+
+}
+div div{
+    background-color: bisque;
+}
+
+h2{
+    color:rgb(255, 145, 0);
+    text-align: center;
+    background-color: rgb(194, 215, 252);
+}
+
+h1{
+    color:aquamarine;
+    text-align: center;
+    font-family:Copperplate, Papyrus, fantasy;
+    font-size:50px;
+}
+
+#section{
+    height: 780px;
+    width:700px;
+    margin:auto;
+
+}
+a{
+    color:rgb(255, 145, 0);
+}
+ol{
+    background-color: rgb(237, 204, 119);
+    width:50%;
+    margin:auto;
+}
+li{
+    padding: 50px;
+}
+a{
+    padding: 0px 145.3px;
+    width:25%;
+    border:solid;
+    border-color:lightpink
+  
+}
+a:hover{
+    background-color: darkolivegreen;
+    border:solid;
+    border-color:crimson;
+}
