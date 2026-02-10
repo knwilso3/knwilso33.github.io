@@ -1,0 +1,44 @@
+
+nav a{
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(65, 12, 6);
+    padding:10px;
+}
+body{
+    background-color: rgb(236, 215, 140);
+    text-align: center;
+}
+img {
+   height: 400px;
+   width: 700px;
+    margin-top: 10px;
+}
+section{
+    color:darkkhaki;
+    background-color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: darkolivegreen;
+    background-color: black;
+}
+p{
+    float:left;
+    padding:10px;
+    height: 340px;
+    width:650px;
+   
+ 
+}
+a:hover{
+    color:crimson
+}
+main{
+    width: 60%;
+    margin: auto;
+}
