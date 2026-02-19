@@ -65,7 +65,6 @@ a.btn{
     width: 400px;
     height: 150px;
     border-radius: 30px;
-    background-color: aquamarine;
     display: block;  
 }
 a :hover{
