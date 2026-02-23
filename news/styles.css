@@ -12,7 +12,7 @@ h3{
 }
 body{ 
     background-color: white;
-    width: 1300px;
+    width: 1738px;
 
 }
  a{
@@ -24,7 +24,7 @@ body{
     width: 30%;
     height: 30%;
     position: absolute;
-    left: 49vw;
+    left: 50vw;
     bottom: 29w;
     
    
@@ -35,14 +35,14 @@ body{
     width: 40%;
     height: 40%;
     position:absolute;
-    right: 40vw;
+    right: 38vw;
 
 
 }
 #lft{
     width: 30%;
     height: 30%;
-    right: 69vw;
+    right: 68vw;
    position: absolute;
 
 }
@@ -155,4 +155,8 @@ hr{
     clear: both;
     width:1730px;
    
+}
+#down{
+    position: absolute;
+    top:50vw;
 }
