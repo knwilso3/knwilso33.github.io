@@ -3,12 +3,13 @@
     margin: 0px;
     background-color: none;
     color:none;
+    width: 200px;
 }
 button{
     
-    width: 1500px;
-    margin: auto;
-    text-align: center;
+    width: 400px;
+   
+   
     background-color: none;
     color:none;
 }
